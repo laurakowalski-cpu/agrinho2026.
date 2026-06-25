@@ -1,20 +1,30 @@
-*{
-    margin:0px;
-    padding:0px;
+* {
+    margin: 0px;
+    padding: 0px;
 }
 
-
-header{
+header {
     background-color: rgb(100, 20, 20);
-    height: 5em;
+    height: 3em;
     color: rgb(232, 225, 225);
     text-align: center;
 }
 
-main{
+main {}
 
+footer {
+    color: rgb(243, 178, 178);
+    background-color: rgb(95, 10, 10);
+    font-style: italic;
+    text-align: center;
 }
 
-footer{
-    background-color:rgb(218, 113, 113)
+main {
+
+
+    main {
+        background-color: rgb(255, 205, 205);
+    }
+
+    background-color: rgb(255, 205, 205);
 }
